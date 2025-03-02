@@ -36,7 +36,7 @@ namespace Hafıza_Oyunu
             for (int i = 1; i <= 20; i++)
             {
                 // Resim yolunu oluştur
-                string imagePath = $"C:/Users/aycan/source/repos/Hafıza_Oyunu/Hafıza_Oyunu/Images/image{i}.jpg";
+                string imagePath = $"Hafıza_Oyunu/Images/image{i}.jpg";//dosya yolunu projenin yoluna göre belirleyin
 
                 // Resmi yükle
                 Image img = Image.FromFile(imagePath);
