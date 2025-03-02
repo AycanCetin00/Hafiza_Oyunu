@@ -1,0 +1,16 @@
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.Form1.resources
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.csproj.GenerateResource.cache
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.AssemblyInfoInputs.cache
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.AssemblyInfo.cs
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.csproj.CoreCompileInputs.cache
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net8.0-windows\Hafıza_Oyunu.exe
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net8.0-windows\Hafıza_Oyunu.deps.json
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net8.0-windows\Hafıza_Oyunu.runtimeconfig.json
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net8.0-windows\Hafıza_Oyunu.dll
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\bin\Debug\net8.0-windows\Hafıza_Oyunu.pdb
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.dll
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\refint\Hafıza_Oyunu.dll
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.pdb
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\Hafıza_Oyunu.genruntimeconfig.cache
+C:\Users\aycan\source\repos\Hafıza_Oyunu\Hafıza_Oyunu\obj\Debug\net8.0-windows\ref\Hafıza_Oyunu.dll

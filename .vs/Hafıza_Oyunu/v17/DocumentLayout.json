@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aycan\\source\\repos\\Haf\u0131za_Oyunu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBE215E-039F-4025-AD6A-5107CA98CD44}|Haf\u0131za_Oyunu\\Haf\u0131za_Oyunu.csproj|c:\\users\\aycan\\source\\repos\\haf\u0131za_oyunu\\haf\u0131za_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDBE215E-039F-4025-AD6A-5107CA98CD44}|Haf\u0131za_Oyunu\\Haf\u0131za_Oyunu.csproj|solutionrelative:haf\u0131za_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDBE215E-039F-4025-AD6A-5107CA98CD44}|Haf\u0131za_Oyunu\\Haf\u0131za_Oyunu.csproj|c:\\users\\aycan\\source\\repos\\haf\u0131za_oyunu\\haf\u0131za_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FDBE215E-039F-4025-AD6A-5107CA98CD44}|Haf\u0131za_Oyunu\\Haf\u0131za_Oyunu.csproj|solutionrelative:haf\u0131za_oyunu\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aycan\\source\\repos\\Haf\u0131za_Oyunu\\Haf\u0131za_Oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "Haf\u0131za_Oyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\Haf\u0131za_Oyunu\\Haf\u0131za_Oyunu\\Form1.cs",
+              "RelativeToolTip": "Haf\u0131za_Oyunu\\Form1.cs",
+              "ViewState": "AQIAANAAAAAAAAAAAAAwwMAAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:32:12.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\aycan\\source\\repos\\Haf\u0131za_Oyunu\\Haf\u0131za_Oyunu\\Form1.cs",
+              "RelativeDocumentMoniker": "Haf\u0131za_Oyunu\\Form1.cs",
+              "ToolTip": "C:\\Users\\aycan\\source\\repos\\Haf\u0131za_Oyunu\\Haf\u0131za_Oyunu\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "Haf\u0131za_Oyunu\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T17:30:29.787Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
